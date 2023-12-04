@@ -19,7 +19,7 @@ Ensure you have Python and Pip installed on your system.
 
 1. **Clone the repository**
    ```
-   git clone [https://github.com/MichaelCoughlinAN/AI-Web-Scraper.git](https://github.com/MichaelCoughlinAN/AI-Web-Scraper.git)
+   git clone https://github.com/MichaelCoughlinAN/AI-Web-Scraper.git
    cd web-scraping-project
    ```
 
