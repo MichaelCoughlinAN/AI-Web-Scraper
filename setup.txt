@@ -1,0 +1,36 @@
+Ya betcha! Here are the setup instructions for running the web scraping code, don'tcha know:
+
+### Prerequisites
+1. Python: Make sure ya got Python installed on yer system. If ya don't, go ahead and grab it from `python.org`.
+2. Pip: Oh ya, Pip usually comes with Python, but if it ain't there, you can get it from `pip.pypa.io/en/stable/installation/`.
+
+### Installation Steps
+
+1. Install Required Python Libraries
+   - Open up yer command prompt or terminal.
+   - Install BeautifulSoup4, Selenium, and Requests. Run these commands, one at a time:
+
+     pip install beautifulsoup4
+     pip install selenium
+     pip install requests
+
+2. WebDriver Setup
+   - You'll need a WebDriver for Selenium. For Chrome, get the ChromeDriver from `sites.google.com/a/chromium.org/chromedriver/`.
+   - Download the version that matches your Chrome browser version.
+   - Unzip it and place the `chromedriver` executable in a known directory.
+
+3. Configure Your Python Script
+   - In your Python scripts, update the `config.chromedriver_path` to the path where you placed the ChromeDriver.
+
+4. Running Your Script
+   - Navigate to the folder containing your Python script.
+   - Run the script using Python. For example, if your script is named `discord_bot.py`, run:
+
+     python discord_bot.py
+
+5. Note on Usage
+   - Remember, web scraping should be done responsibly. Respect the website's terms of service and robots.txt files. Don't overload their servers, ya hear?
+
+There ya go, all set to start scraping responsibly! If ya run into any issues, just make sure all yer paths are correct and that yer using compatible versions of Chrome and ChromeDriver. 
+
+Happy scraping, you betcha!
