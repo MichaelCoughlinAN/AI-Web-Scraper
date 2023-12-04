@@ -28,6 +28,8 @@ Ensure you have Python and Pip installed on your system.
    pip install beautifulsoup4
    pip install selenium
    pip install requests
+   pip install openai
+   pip install discord
    ```
 
 3. **WebDriver setup**
