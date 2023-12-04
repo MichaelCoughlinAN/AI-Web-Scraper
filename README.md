@@ -1,6 +1,6 @@
 # Web Scraping Project
 
-This repository contains the code for a web scraping project that collects data from various websites. The project is developed in Python and uses tools like BeautifulSoup, Selenium, and Requests for efficient and responsible web scraping.
+This repository contains the code for a web scraping project that collects data from various websites. The project is developed in Python and uses tools like BeautifulSoup, Selenium, and OpenAI's ChatGPT for efficient and responsible web scraping.
 
 ## Project Overview
 
